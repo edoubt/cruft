@@ -1,11 +1,11 @@
 import math
 lower = 2
-upper = 100000
+upper = 100
 primes = []
 for x in range(lower,upper+1):
     factors = []
     for i in primes:
-        if i >math.ceil(math.sqrt(x)):
+        if i >math.ceil(x/2):
             break
         if math.fmod(x,i) == 0:
             factors.append(i)
