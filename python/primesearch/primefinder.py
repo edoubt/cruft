@@ -1,6 +1,6 @@
 import math
 lower = 2
-upper = 100
+upper = 65536
 primes = []
 for x in range(lower,upper+1):
     factors = []
