@@ -44,6 +44,7 @@ Others may disagree, but I think this is a pretty pure dimension.  Which is to s
  Competetiveness
 To some degree, every game has a competetive aspect (if there were no challenge, there would be no game), but it's important to realize that some games encourage competetiveness more than others.  As the paradigm that has brough us to this point (natural selection) is based on competition, I won't try to argue that it's a negative.   And many may disagree with me.  But that's fine.  My own predilection is to look to create games which are not solely hyperfocused on the competition aspect.  Others may create highly competetive games that have many positive benefits (we already have a bunch of these of course) and that's fine.
 
+In some sense, the cooperativeness and/or competetiveness of a game is mostly determined by whether there is a zero-sum-gain model involved in the game.  Most directly competitive games use this model.  But our dynamic ecosystem(s) are not necessarily zero-sum-gain, in that the interrelationships between all the different organisms produce a rich structure that can support far more than any "monoculture" occupying the same physical space ever possibly could.
 
 I believe that some of the most important "work" of the future is the continued creation and "tuning" of new games.   And I encourage people to think outside the box in order to create games that interact with real concerns (and try to help solve real problems that have traditionally been "outside" the realm of games & play).  It's really important to look at games with regard to the strategies they engender.  Games that naturally encourage cooperation (and punish "self-centered" thinking) are capable of building patterns in our minds that will extend to other non-game human interactions.
 
@@ -57,7 +58,7 @@ The specific goal that I see in front of us (and that I'd like to try to work on
 
 When rules are imposed by other humans (or by ourselves), we tend to look for ways that those rules can be bent (or broken completely).  I think this is part of human nature.  And so for any rule or constraint that is imposed on human society, there will always be some fraction of the population that doesn't obey the rule(s).  My belief is that if we can agree on the importance of the 
 
-I also think that we need each other to help keep us "honest".  By leading more open transparent lives.
+I also think that we need each other to help keep us "honest".  By leading more open transparent lives.  It's the softer side of enforcement.  By collectively expressing our displeasure to the bad behavior of others, most folks might have incentive to change their ways.  But if we honor some arbitrary standard of "privacy" (such that what takes place out of site behind a wall, fence, hillside, etc... can never be discovered by outsiders) then we will always be subject to the pecadillos of individual crazy folk.
 
 
 It's OK not to like a particular game.  I'm not very fond of golf, but I try to be tolerant of all the beautiful real estate that golf courses use up.  And I take some solace in the fact that at least golfers (and spectators) are interacting with the "real world" in a visceral way.  My answer is that we should just have a lot of games to choose from.  And let us all play the ones we want.
