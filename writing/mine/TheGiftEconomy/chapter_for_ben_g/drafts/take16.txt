@@ -1,3 +1,14 @@
+Games provide a way to practice "letting go" and giving up some control (in some games, we may "feel" in control, but in many others, we may not (and so we're subject to the "control" of the rules and/or opponents/teammates actions/behavior)).
+
+rules, boundaries and cheating  -- if some substantial proportion of people cheat in a specific way, it probably makes sense to either change the rule(s) or work harder to get players to follow those rules
+
+competition
+
+and those who disdain games?
+
+with the explosion of technology, now is a great time to create new games (as there are so many components, ideas and memes to use in constructing new games)
+
+
 As humans, we have an innate drive to probe boundaries, find (and surpass if possible) limits and to try to exploit opportunities.  In addition to the "natural" constraints imposed on us externally, we humans have also attempted to create additional "societal" rules in order that we may live alongside each other (hopefully peacefully).  But there's a very different "tone" to the nature of these "artificially created" constraints.  Because they aren't "absolute" (in the sense that the natural "laws" such as gravity are) and so we are not "fully bound" in the same way as we are with respect to natural laws (though as science progresses, one can make the argument that even the "natural" laws may not prove to be as "absolute" as we once thought).  
 
 I have all sorts of questions about what "boundaries" any future machine intelligences may or may not recognize.  If we try to impose "limits" on such entities by encoding basic "laws" in their software, we have no true assurance that these entities won't self-modify in order to remove such "limits" on their behavior, action, thinking, etc...  But I'm not an expert on AI, so I'll leave this problem for others to solve and concentrate on the same issue, but with respect to us humans, not our machine progeny.
