@@ -16,7 +16,7 @@ The way I see it, principles are primary, and goals will naturally
 emerge (as principles are primarily constraining in their nature).
 
 I've given my own principles (as best I understand them).  I believe
-that it is useful and proper to set my principles as a "goal" in and
+that it is useful and proper to set my principles as "goals" in and
 of themselves.  That is to say, principles should be what I aspire to,
 not necessarily a record of how I have lived my life up until this
 point.
@@ -107,7 +107,7 @@ Here are the meta-goals that my personal principles produce:
  preventing violence
 
  preventing forceful coercion (as opposed to coercion through dialogue
- and education, which is tolerated, but not preferred)
+ and education, which is tolerated)
 
  population control
 
